@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="dsa-lib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/dsa_lib_jar</output-path>
+    <root id="archive" name="dsa-lib.jar">
+      <element id="module-output" name="dsa-lib" />
+    </root>
+  </artifact>
+</component>
